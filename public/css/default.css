@@ -1,0 +1,32 @@
+body {
+  background: #DC3D24;
+  font-family: monospace;
+}
+
+#header {
+  padding: 1%;
+  background: #232B2B;
+}
+
+#content {
+  background: #ECEAE0;
+  min-height: 475px;
+  padding: 2%;
+}
+
+#footer {
+  padding: 1%;
+  background: #E3AE57;
+}
+
+#main-menu li{
+  display: inline;
+  padding: 1%;
+  font: 1%;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #DC3D24;
+}
