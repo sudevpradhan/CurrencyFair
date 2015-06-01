@@ -1,0 +1,1 @@
+{"userId":"99164","currencyFrom":"AUD","currencyTo":"CAD","amountSell":1996.97,"amountBuy":1977,"rate":0.99,"timePlaced":"1-Jun-15 19:54:42","originatingCountry":"Australia Dollar"}

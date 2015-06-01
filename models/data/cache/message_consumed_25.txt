@@ -1,0 +1,1 @@
+{"userId":"19234","currencyFrom":"USD","currencyTo":"GBP","amountSell":871.017,"amountBuy":574,"rate":0.659,"timePlaced":"1-Jun-15 19:54:41","originatingCountry":"United States Dollar"}

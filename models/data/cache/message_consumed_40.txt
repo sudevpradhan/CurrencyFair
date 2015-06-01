@@ -1,0 +1,1 @@
+{"userId":"47799","currencyFrom":"KWD","currencyTo":"CHF","amountSell":45.758,"amountBuy":144,"rate":3.147,"timePlaced":"1-Jun-15 19:54:41","originatingCountry":"Kuwait Dinar"}

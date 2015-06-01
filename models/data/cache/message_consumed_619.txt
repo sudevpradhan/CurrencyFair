@@ -1,0 +1,1 @@
+{"userId":"22298","currencyFrom":"GBP","currencyTo":"CHF","amountSell":6414.451,"amountBuy":9410,"rate":1.467,"timePlaced":"1-Jun-15 19:54:42","originatingCountry":"United Kingdom Pound"}

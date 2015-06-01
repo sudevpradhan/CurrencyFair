@@ -1,0 +1,1 @@
+{"userId":"68569","currencyFrom":"AUD","currencyTo":"KYD","amountSell":10314.376,"amountBuy":6529,"rate":0.633,"timePlaced":"1-Jun-15 19:54:41","originatingCountry":"Australia Dollar"}

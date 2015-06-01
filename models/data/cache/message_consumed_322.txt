@@ -1,0 +1,1 @@
+{"userId":"67980","currencyFrom":"GBP","currencyTo":"AUD","amountSell":3897.688,"amountBuy":7924,"rate":2.033,"timePlaced":"1-Jun-15 19:54:41","originatingCountry":"United Kingdom Pound"}

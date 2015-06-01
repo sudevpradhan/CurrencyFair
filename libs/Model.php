@@ -4,6 +4,7 @@ class Model {
   public $mem;
   
   function __construct() {
+    // Filesystem will be used if memcache is not working.
     $this->mem = new Memcached();
     $this->mem->addServer("127.0.0.1", 11211);
   }
@@ -17,7 +18,7 @@ class Model {
   }
   
   protected function memcacheGetMulti($keys) {
-    $items = $this->mem->getMulti($keys, $cas);
+    $items = $this->mem->getMulti($keys);
     return $items;
   }
 }

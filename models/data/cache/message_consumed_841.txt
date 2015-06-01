@@ -1,0 +1,1 @@
+{"userId":"24177","currencyFrom":"EUR","currencyTo":"CHF","amountSell":7904.007,"amountBuy":8481,"rate":1.073,"timePlaced":"1-Jun-15 19:54:42","originatingCountry":"Euro Member Countries"}

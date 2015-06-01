@@ -1,0 +1,1 @@
+{"userId":"84481","currencyFrom":"AUD","currencyTo":"KWD","amountSell":14369.099,"amountBuy":3348,"rate":0.233,"timePlaced":"1-Jun-15 19:54:41","originatingCountry":"Australia Dollar"}

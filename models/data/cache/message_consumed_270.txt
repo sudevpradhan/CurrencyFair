@@ -1,0 +1,1 @@
+{"userId":"94952","currencyFrom":"EUR","currencyTo":"CAD","amountSell":1386.202,"amountBuy":1949,"rate":1.406,"timePlaced":"1-Jun-15 19:54:41","originatingCountry":"Euro Member Countries"}

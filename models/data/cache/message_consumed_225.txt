@@ -1,0 +1,1 @@
+{"userId":"1906","currencyFrom":"USD","currencyTo":"AUD","amountSell":5890.218,"amountBuy":8370,"rate":1.421,"timePlaced":"1-Jun-15 19:54:41","originatingCountry":"United States Dollar"}

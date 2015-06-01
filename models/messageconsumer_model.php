@@ -7,9 +7,12 @@ class Messageconsumer_Model extends Model {
   }
   
   public function consume_message() {
+    // This needs to be sent. See config/settings.php for details.
     if(!isset($_POST['refreshkey']) || $_POST['refreshkey'] != REFRESH_KEY) {
       die ("Incorrect refresh key or refresh key missing!");
     }
+    // This is for spam protection from the singe JSON submit form.
+    // If the hidden field 'honeypot' is filled it is usually a robot.
     if(isset($_POST['honeypot']) && strlen($_POST['honeypot']) > 0) {
       die ("This could be spam.");
     }

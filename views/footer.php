@@ -1,9 +1,9 @@
   <div id="menu">
       <ul id="navigation-menu">
-        <li><a href="/currencyfairtest">Most Traded Currencies</a></li>
-        <li><a href="/currencyfairtest/?url=currencypairs">Currency trade pairs</a></li>        
-        <li><a href="/currencyfairtest/?url=enterjson">Send Single Json</a></li>
-        <li><a href="/currencyfairtest/?url=refreshdata">Refresh data</a></li>        
+        <li><a href="<?php print APP_BASE_URL; ?>">Most Traded Currencies</a></li>
+        <li><a href="<?php print APP_BASE_URL; ?>?url=currencypairs">Currency trade pairs</a></li>        
+        <li><a href="<?php print APP_BASE_URL; ?>?url=enterjson">Send Single Json</a></li>
+        <li><a href="<?php print APP_BASE_URL; ?>?url=refreshdata">Refresh data</a></li>        
       </ul>
     </div>
   

@@ -1,0 +1,1 @@
+{"userId":"89468","currencyFrom":"EUR","currencyTo":"KYD","amountSell":8885.621,"amountBuy":8157,"rate":0.918,"timePlaced":"1-Jun-15 19:54:42","originatingCountry":"Euro Member Countries"}

@@ -1,0 +1,1 @@
+{"userId":"14434","currencyFrom":"KYD","currencyTo":"CAD","amountSell":449.936,"amountBuy":701,"rate":1.558,"timePlaced":"1-Jun-15 19:54:42","originatingCountry":"Cayman Islands Dollar"}

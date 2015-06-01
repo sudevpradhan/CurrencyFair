@@ -67,7 +67,6 @@ class Mosttraded_Model extends Model {
         }
         
       }
-      
       // Set an expiry for maximum time for stale data - STALEDATAALLOWED
       $this->memcacheSet('most_traded', $this->mostTradedVal, STALEDATAALLOWED);
     }

@@ -1,0 +1,1 @@
+{"userId":"11177","currencyFrom":"EUR","currencyTo":"AUD","amountSell":4967.101,"amountBuy":7247,"rate":1.459,"timePlaced":"1-Jun-15 19:54:42","originatingCountry":"Euro Member Countries"}

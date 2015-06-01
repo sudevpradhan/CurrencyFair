@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * Main file to load MVC.
+ */
 class Bootstrap {
   function __construct() {
     
@@ -15,6 +17,11 @@ class Bootstrap {
     
     if(!file_exists($file)) {
       throw new Exception("The file $file does not exist.");
+    }
+    
+    // If memcache is not there in the server use flat file to store.
+    if(!class_exists('Memcached')){
+      require 'Memcache.php';
     }
     
     require $file;

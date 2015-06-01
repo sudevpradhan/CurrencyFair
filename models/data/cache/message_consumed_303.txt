@@ -1,0 +1,1 @@
+{"userId":"9465","currencyFrom":"AUD","currencyTo":"CHF","amountSell":3597.113,"amountBuy":2741,"rate":0.762,"timePlaced":"1-Jun-15 19:54:41","originatingCountry":"Australia Dollar"}

@@ -1,0 +1,1 @@
+{"userId":"42537","currencyFrom":"USD","currencyTo":"KYD","amountSell":2817.352,"amountBuy":2468,"rate":0.876,"timePlaced":"1-Jun-15 19:54:41","originatingCountry":"United States Dollar"}

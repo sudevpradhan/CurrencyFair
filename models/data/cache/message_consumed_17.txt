@@ -1,0 +1,1 @@
+{"userId":"75812","currencyFrom":"GBP","currencyTo":"KYD","amountSell":7582.148,"amountBuy":9599,"rate":1.266,"timePlaced":"1-Jun-15 19:54:41","originatingCountry":"United Kingdom Pound"}

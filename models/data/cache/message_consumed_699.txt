@@ -1,0 +1,1 @@
+{"userId":"35190","currencyFrom":"EUR","currencyTo":"KWD","amountSell":14655.689,"amountBuy":4895,"rate":0.334,"timePlaced":"1-Jun-15 19:54:42","originatingCountry":"Euro Member Countries"}

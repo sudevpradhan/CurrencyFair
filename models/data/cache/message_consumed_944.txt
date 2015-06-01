@@ -1,0 +1,1 @@
+{"userId":"16160","currencyFrom":"GBP","currencyTo":"KWD","amountSell":3837.607,"amountBuy":1796,"rate":0.468,"timePlaced":"1-Jun-15 19:54:42","originatingCountry":"United Kingdom Pound"}

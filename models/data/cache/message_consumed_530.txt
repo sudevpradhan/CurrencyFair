@@ -1,0 +1,1 @@
+{"userId":"80742","currencyFrom":"GBP","currencyTo":"CAD","amountSell":596.782,"amountBuy":1187,"rate":1.989,"timePlaced":"1-Jun-15 19:54:42","originatingCountry":"United Kingdom Pound"}

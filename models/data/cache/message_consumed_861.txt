@@ -1,0 +1,1 @@
+{"userId":"24384","currencyFrom":"KYD","currencyTo":"CHF","amountSell":7789.655,"amountBuy":9036,"rate":1.16,"timePlaced":"1-Jun-15 19:54:42","originatingCountry":"Cayman Islands Dollar"}

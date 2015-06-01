@@ -1,0 +1,1 @@
+{"userId":"73694","currencyFrom":"KWD","currencyTo":"CAD","amountSell":450.576,"amountBuy":1878,"rate":4.168,"timePlaced":"1-Jun-15 19:54:42","originatingCountry":"Kuwait Dinar"}

@@ -1,0 +1,1 @@
+{"userId":"10323","currencyFrom":"CAD","currencyTo":"CHF","amountSell":2800,"amountBuy":3108,"rate":1.11,"timePlaced":"1-Jun-15 19:54:42","originatingCountry":"Canada Dollar"}
