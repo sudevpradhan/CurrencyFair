@@ -4,7 +4,7 @@ CurrencyFair Test
 USAGE
 -----
 - Review/Change settings in config/settings.php - e.g. "APP_BASE_URL", "REFRESH_KEY" 
-- [code commented out for submission]IMPORTANT: All posts need send a "refreshkey" POST parameter - See config/settings.php to use/change "REFRESH_KEY"
+- [code commented out beofre submission this test]IMPORTANT: All posts need send a "refreshkey" POST parameter - See config/settings.php to use/change "REFRESH_KEY"
 - Posts need to send to endpoint - http://currencyfair-sudevpradhan.rhcloud.com/?url=messageconsumer
 JSON format to be sent:
 {"userId": "134256", "currencyFrom": "EUR", "currencyTo": "GBP", "amountSell": 1000, "amountBuy": 747.10, "rate": 0.7471, "timePlaced" : "24-JAN-15 10:27:44", "originatingCountry" : "FR"}
